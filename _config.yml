@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: Accessible Data Analysis
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Data Science focusing on the fields of sports, robotics, genetic engineering, and the social sciences.
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,11 +20,8 @@ description: A virtual proof that I'm awesome
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: I'm a data scientist studying at lambda school.
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -38,13 +35,13 @@ avatar: "/img/avatar-icon.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#E8A4F9"
+navbar-col: "#cc79a7"
 navbar-text-col: "#E6E4CE"
-navbar-children-col: "#EDE3E9"
-page-col: "#9F84BD"
-link-col: "#8A4FFF"
-hover-col: "#1098F7"
-footer-col: "#EFCA08"
+navbar-children-col: "#d55e00"
+page-col: "#d55e00"
+link-col: "#0072b2"
+hover-col: "#f0e442"
+footer-col: "#009e73"
 footer-text-col: "#B8BEDD"
 footer-link-col: "#9C89B8"
 
@@ -68,10 +65,9 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "aethericdesigns@yahoo.com"
+  github: JulieMew
+  kaggle: JulieMew
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
